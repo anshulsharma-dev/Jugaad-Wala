@@ -11,3 +11,17 @@
 .tp-main-menu-bg {
   display: none;
 }
+
+/* ---------------golabl color variables--------------- */
+
+:root {
+  --color-asparagus: #6a994e;
+  --color-yellow-green: #a7c957;
+  --color-parchment: #f2e8cf;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
