@@ -30,3 +30,8 @@ body {
 .theme-dark-bg {
   background: var(--color-asparagus) !important;
 }
+
+.img-fluid {
+  max-width: 20% !important;
+  height: auto;
+}
