@@ -8,9 +8,9 @@
 }
 /* ----global css end----------- */
 
-.tp-main-menu-bg {
+/* .tp-main-menu-bg {
   display: none;
-}
+} */
 
 /* ---------------golabl color variables--------------- */
 
@@ -24,4 +24,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
+}
+
+/* ------------------------------- font adjustments-------------------------- */
+.theme-dark-bg {
+  background: var(--color-asparagus) !important;
 }

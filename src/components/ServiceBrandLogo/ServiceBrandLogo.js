@@ -10,7 +10,9 @@ const ServiceBrandLogo = ({ logo_num }) => {
       >
         <a href="javascript:void(0);">
           <img
-            src={`assets/img/brand/brand-${logo_num}.png`}
+            // src={`assets/img/brand/brand-${logo_num}.png`}
+            // src="../logoJugaad/logo.png"
+
             className="img-fluid"
             alt="img"
           />
